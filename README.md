@@ -14,4 +14,4 @@
 **Android Studio(Java)**, **Base64 encoding**, **Retrofit**, **ViewModel + LiveData (MVVM Pattern)**, **Node.js**, **Express.js**, **MongoDB**, **JWT**, **Restful API**
 
 ## Demo
-bookstore.apk
+[bookstore.apk](https://github.com/mohans86-dev/Bookstore-App/blob/9d24e2f657b6d68f457d534407470d94da44a1ca/bookstore.apk)
