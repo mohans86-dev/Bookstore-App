@@ -12,3 +12,5 @@
 
 ## Tech Stack
 **Android Studio(Java)**, **Base64 encoding**, **Retrofit**, **ViewModel + LiveData (MVVM Pattern)**, **Node.js**, **Express.js**, **MongoDB**, **JWT**, **Restful API**
+
+## Demo
