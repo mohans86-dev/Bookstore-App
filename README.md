@@ -1,6 +1,5 @@
 # Bookstore App
 
-## Demo
 Download the app: https://github.com/mohans86-dev/Bookstore-App/releases/download/v1.0.0/bookstore.apk
 
 ---
