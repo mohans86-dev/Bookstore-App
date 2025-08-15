@@ -18,7 +18,12 @@ app.use("/api/books", bookRoutes);
 app.use("/api/cart", cartRoutes);
 
 // test route
-app.get("/", (req, res) => res.send("Server is working!"));
+app.get("/", (req, res) =>
+  res.status(200).json({
+    success: true,
+    msg: "Server is working",
+  })
+);
 
 // Connect DB & Start Server
 mongoose
