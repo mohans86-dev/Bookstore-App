@@ -21,7 +21,7 @@ app.use("/api/cart", cartRoutes);
 app.get("/", (req, res) =>
   res.status(200).json({
     success: true,
-    msg: "Server is working",
+    message: "Server is working",
   })
 );
 
