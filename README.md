@@ -1,5 +1,7 @@
 # Bookstore App
 
+## Demo
+Download the app: https://github.com/mohans86-dev/Bookstore-App/releases/download/v1.0.0/bookstore.apk
 
 ---
 
@@ -12,6 +14,3 @@
 
 ## Tech Stack
 **Android Studio(Java)**, **Base64 encoding**, **Retrofit**, **ViewModel + LiveData (MVVM Pattern)**, **Node.js**, **Express.js**, **MongoDB**, **JWT**, **Restful API**
-
-## Demo
-Download: https://github.com/mohans86-dev/Bookstore-App/releases/download/v1.0.0/bookstore.apk
