@@ -18,24 +18,33 @@ exports.addOrUpdateBook = async (req, res) => {
     let coverUrl = req.body.coverImage;
     console.log("Cover URL provided:", coverUrl);
     if (!coverUrl) {
-      // fetching cover image using title from OpenLibrary
-      const response = await fetch(
-        `https://covers.openlibrary.org/b/title/${encodeURIComponent(
-          title
-        )}-L.jpg`
-      );
+      try {
+        const response = await fetch(
+          `https://covers.openlibrary.org/b/title/${encodeURIComponent(
+            title
+          )}-L.jpg`
+        );
 
-      if (response.ok) {
-        console.log("Cover fetched successfully from OpenLibrary");
-        coverUrl = response.url;
-      } else {
-        console.warn("Cover fetch failed, using default image");
+        if (response.ok) {
+          const contentType = response.headers.get("content-type");
+          if (contentType && contentType.startsWith("image/")) {
+            console.log("Valid image fetched from OpenLibrary");
+            coverUrl = response.url;
+          } else {
+            console.warn("Response not an image, using default cover");
+            coverUrl = "NSB";
+          }
+        } else {
+          console.warn("Cover fetch failed, using default cover");
+          coverUrl = "NSB";
+        }
+      } catch (err) {
+        console.error("Error fetching cover:", err);
         coverUrl = "NSB";
       }
     } else {
       console.log("Using uploaded cover image from Android internal storage");
     }
-
     const newBook = new Book({
       title,
       author,
