@@ -30,6 +30,7 @@ exports.addOrUpdateBook = async (req, res) => {
         coverUrl = response.url;
       } else {
         console.warn("Cover fetch failed, using default image");
+        coverUrl = "NSB";
       }
     } else {
       console.log("Using uploaded cover image from Android internal storage");
