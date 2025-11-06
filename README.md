@@ -46,7 +46,6 @@ Built with **Java (Android)** and **Material Design UI** for an elegant experien
 
 ## 🖼️ Screenshots
 
-*Splash
 ![Screenshot_2025-11-07-01-38-41-45_055a28fee6e9c39ddb596aa6ac6a96fe-portrait](https://github.com/user-attachments/assets/eec8c9ab-9b8f-464a-9c71-4798abfabfc5)
 <img width="207" height="459" alt="Screenshot_2025-11-07-01-17-27-25_055a28fee6e9c39ddb596aa6ac6a96fe-portrait" src="https://github.com/user-attachments/assets/65cf4ea8-b6b2-4175-a371-d1b5abefd2e1" />
 <img width="207" height="459" alt="Screenshot_2025-11-07-01-18-38-95_055a28fee6e9c39ddb596aa6ac6a96fe-portrait" src="https://github.com/user-attachments/assets/ac506703-eee2-4b0c-881c-a80a23b94c2f" />
