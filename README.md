@@ -6,12 +6,12 @@ Download the app: https://github.com/mohans86-dev/Bookstore-App/releases/downloa
 
 ## 🖼️ Screenshots
 
-<img width="1118" height="2361" alt="Screenshot_2025-11-10-00-49-55-87_055a28fee6e9c39ddb596aa6ac6a96fe-portrait" src="https://github.com/user-attachments/assets/23ae9c62-c926-41b3-85a3-a026045d4e3c" />
+<img width="217" height="459" alt="Screenshot_1" src="https://github.com/user-attachments/assets/3d8c11c9-6be0-4941-88e0-bf9e25fb28b2" />
 <img width="207" height="459" alt="Screenshot_2025-11-07-01-17-27-25_055a28fee6e9c39ddb596aa6ac6a96fe-portrait" src="https://github.com/user-attachments/assets/65cf4ea8-b6b2-4175-a371-d1b5abefd2e1" />
 <img width="207" height="459" alt="Screenshot_2025-11-07-01-18-38-95_055a28fee6e9c39ddb596aa6ac6a96fe-portrait" src="https://github.com/user-attachments/assets/ac506703-eee2-4b0c-881c-a80a23b94c2f" />
 <img width="207" height="459" alt="Screenshot_2025-11-07-01-19-03-13_055a28fee6e9c39ddb596aa6ac6a96fe-portrait" src="https://github.com/user-attachments/assets/23e1bd18-1268-465f-b651-e19ee9211524" />
 <img width="207" height="459" alt="Screenshot_2025-11-07-01-19-14-09_055a28fee6e9c39ddb596aa6ac6a96fe-portrait" src="https://github.com/user-attachments/assets/2662be1c-29b9-45f0-90c7-084fe9a9553c" />
-<img width="1118" height="2361" alt="Screenshot_2025-11-10-00-50-02-31_055a28fee6e9c39ddb596aa6ac6a96fe-portrait" src="https://github.com/user-attachments/assets/5b18587d-00df-4779-bb6b-ddc0e51d4392" />
+<img width="217" height="459" alt="Screenshot_2" src="https://github.com/user-attachments/assets/4a1a6106-55bd-4db7-b30b-65000bc4096e" />
 ![Screenshot_2025-11-07-01-23-01-58_055a28fee6e9c39ddb596aa6ac6a96fe-portrait](https://github.com/user-attachments/assets/17d57cf6-451d-4b24-aa3f-2f74202a6000)
 
 ---
